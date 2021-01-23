@@ -14,11 +14,14 @@ nav ul li, footer ul li {
     /*margin-right: 20px;
     margin: auto;
 }*/
-nav {
-    display: inline-block;
-    list-style-type: none;
-    margin: auto;
-}
+#nav {
+    width:750px;
+    margin:0 auto;
+    list-style:none;
+    }
+    #nav li {
+    float:left;
+    }
 
 a {
     text-decoration: none;
