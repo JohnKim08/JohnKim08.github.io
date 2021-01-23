@@ -1,7 +1,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-    
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -12,9 +11,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    margin: auto;
 }
-
 a {
     text-decoration: none;
     color: #999;
@@ -44,5 +41,3 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-
-
