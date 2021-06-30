@@ -68,10 +68,10 @@ ul.posts li {
   .container {
     padding: 2px 16px;
   }
-  img {
+  .card:img {
     float: left;
     margin: 5px;
 }
-h2{
+.card:h2{
     text-align: justify;
 }
