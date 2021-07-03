@@ -58,6 +58,7 @@ ul.posts li {
     list-style: none;
 }
 .container {
+    padding: 2px 16px;
     float: right;
   }
 .card {
