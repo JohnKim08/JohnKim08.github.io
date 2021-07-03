@@ -66,6 +66,7 @@ ul.posts li {
   img {
     width: 100%;
     height: 100%;
+    padding: 2px 16px;
   }
   /* On mouse-over, add a deeper shadow */
   .card:hover {
@@ -75,6 +76,7 @@ ul.posts li {
   /* Add some padding inside the card container */
   .container {
     padding: 2px 16px;
+    float: right;
   }
 /* img {
             float: left;
