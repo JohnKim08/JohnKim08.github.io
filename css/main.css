@@ -57,7 +57,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-.container {
+.card container {
     padding: 2px 16px;
     float: right;
   }
